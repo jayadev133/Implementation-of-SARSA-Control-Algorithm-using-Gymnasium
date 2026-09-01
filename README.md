@@ -12,7 +12,9 @@ The problem is to implement the SARSA algorithm for training an agent in the Fro
 
 ## Software Requirements
 Python 3.x
+
 Jupyter Notebook 
+
 NumPy ,Gymnasium (FrozenLake) , Matplotlib
 
 
